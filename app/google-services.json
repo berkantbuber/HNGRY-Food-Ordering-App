@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207285076580",
+    "project_id": "food-fest-4d4ea",
+    "storage_bucket": "food-fest-4d4ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207285076580:android:4660258cb01a23e6069571",
+        "android_client_info": {
+          "package_name": "com.example.foodfest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVQk1_erVEvU0UPBE0alAvigwZDOP2Klg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

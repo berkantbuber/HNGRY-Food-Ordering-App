@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Ana Ekran"
+        android:icon="@drawable/home_icon"
+        />
+    <item
+        android:id="@+id/cartFragment"
+        android:title="Sepet"
+        android:icon="@drawable/cart_icon"
+        />
+    <item
+        android:id="@+id/searchFragment"
+        android:title="Ara"
+        android:icon="@drawable/search_icon"
+        />
+    <item
+        android:id="@+id/historyFragment"
+        android:title="Geçmiş"
+        android:icon="@drawable/history_icon"
+        />
+    <item
+        android:id="@+id/profileFragment"
+        android:title="Profil"
+        android:icon="@drawable/profile_icon"
+        />
+</menu>
